@@ -22,7 +22,7 @@
 
 
 
-  <img align="right" alt="Quantum CPU" src="https://github.com/chrisamirani/chrisamirani/blob/main/q.jpg" style="margin-bottom: 15px;" width="400"/>
+  <img align="right" alt="Quantum CPU" src="https://github.com/chrisamirani/chrisamirani.github.io/blob/main/q.jpg" style="margin-bottom: 15px;" width="400"/>
   
 A full stack developer/educator with a big passion for anything technical.
 - 🤖 Learning more about ML.
